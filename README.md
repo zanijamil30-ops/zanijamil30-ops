@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Zaina Jamil  
+# 👋 Hi there, I'm Zainab Jamil  
 
 I'm a **Data Scientist** and **Machine Learning Engineer** passionate about turning data into intelligent insights.  
 I love building **predictive models**, exploring **AI-driven solutions**, and contributing to open-source ML projects.  
