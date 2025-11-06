@@ -39,7 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45" height="45"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dair-ai/awesome-llm-apps/main/assets/langchain-logo.png" alt="LangChain" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/tenlab-io/langchain-logo/main/langchain-logo.png" alt="LangChain" width="45" height="45"/>
   </a>
 </p>
 
