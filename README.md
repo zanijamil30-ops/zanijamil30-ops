@@ -1,12 +1,60 @@
-# 👋 Hi there, I'm Zainab Jamil  
-
-I'm a **Data Scientist** and **Machine Learning Engineer** passionate about turning data into intelligent insights.  
-I love building **predictive models**, exploring **AI-driven solutions**, and contributing to open-source ML projects.  
+<h1 align="center">Hi 👋, I'm Zainab Jamil</h1>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Freelance Research & Technical Writer</h3>
+<h4 align="center">Specializing in Deep Learning, NLP, LLMs & Generative AI (RAG - Retrieval-Augmented Generation)</h4>
 
 ---
 
-### 🧠 What I Do
-- 🤖 Machine Learning & Data Analysis  
-- 📊 Data Visualization (Power BI, Matplotlib, Seaborn)  
-- 🧬 AI & Deep Learning Projects  
-- ☁️ Working with Python, SQL, and TensorFlow  
+### 🧠 About Me  
+- 🔭 Currently working on **LLM-based Retrieval-Augmented Generation (RAG)** pipelines  
+- 🧩 Experienced in **Deep Learning, NLP, and AI-driven Automation**  
+- ✍️ I also write technical & research content on **AI, ML, and Generative Systems**  
+- 🌱 Learning advanced **MLOps**, **Vector Databases**, and **Prompt Engineering**  
+- 📫 Reach me: zanijamil30@gmail.com |
+- [LinkedIn]https://www.linkedin.com/in/zainab-jamil-b73824329/
+
+---
+
+### 🛠️ Languages & Tools  
+
+#### 💻 Programming Languages  
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="45" height="45"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
+</p>
+
+#### ⚙️ Machine Learning & AI  
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="45" height="45"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="45" height="45"/></a>
+</p>
+
+#### 🧠 NLP & LLM Tools  
+<p align="left">
+  <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45" height="45"/></a>
+  <a href="https://langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="45" height="45"/></a>
+  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/123845155?s=200&v=4" alt="LlamaIndex" width="45" height="45"/></a>
+  <a href="https://chromadb.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/119642063?s=200&v=4" alt="ChromaDB" width="45" height="45"/></a>
+</p>
+
+#### ☁️ Cloud & DevOps  
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="45" height="45"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
+</p>
+
+#### 📊 Data Tools  
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="45" height="45"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="45" height="45"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/></a>
+</p>
+
+---
+
+⭐ *“Empowering machines to understand human language — one model at a time.”*  
+
