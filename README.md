@@ -35,8 +35,12 @@
 
 #### 🧠 NLP, LLMs & Generative AI  
 <p align="left">
-  <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45" height="45"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/logo.svg" alt="LangChain" width="45" height="45"/></a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45" height="45"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/dair-ai/awesome-llm-apps/main/assets/langchain-logo.png" alt="LangChain" width="45" height="45"/>
+  </a>
 </p>
 
 #### ☁️ Cloud, DevOps & MLOps  
@@ -50,9 +54,15 @@
 
 #### 🧮 Databases & Data Engineering  
 <p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/apache/airflow/main/docs/_static/airflow-logo.svg" alt="Airflow" width="45" height="45"/></a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
 </p>
 
 #### 📊 Data Visualization & Analytics  
