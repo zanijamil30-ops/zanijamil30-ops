@@ -76,3 +76,8 @@
 
 ⭐ *“Empowering machines to understand human language — one model at a time.”*  
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" alt="stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" alt="top langs" width="420"/>
+</p>
+
