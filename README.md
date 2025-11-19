@@ -23,49 +23,49 @@
 <p align="left">
 
 <!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<img src="https://skillicons.dev/icons?i=python" width="48"/>
 
 <!-- TensorFlow -->
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
 
 <!-- Keras -->
-<img src="https://skillicons.dev/icons?i=keras" width="50"/>
+<img src="https://skillicons.dev/icons?i=keras" width="48"/>
 
 <!-- PyTorch -->
-<img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="48"/>
 
 <!-- Scikit-learn -->
-<img src="https://skillicons.dev/icons?i=scikitlearn" width="50"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/>
 
-<!-- OpenAI -->
-<img src="https://avatars.githubusercontent.com/u/53395357?s=200&v=4" width="50"/>
+<!-- OpenAI (official icon) -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48" />
 
 <!-- Pinecone -->
-<img src="https://avatars.githubusercontent.com/u/79980707?s=200&v=4" width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" width="48" />
 
 <!-- AWS -->
-<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<img src="https://skillicons.dev/icons?i=aws" width="48"/>
 
 <!-- Google Cloud -->
-<img src="https://skillicons.dev/icons?i=gcp" width="50"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/>
 
 <!-- Docker -->
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48"/>
 
-<!-- n8n -->
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="50"/>
+<!-- n8n (official PNG) -->
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" />
 
 <!-- MLflow -->
-<img src="https://avatars.githubusercontent.com/u/32163714?s=200&v=4" width="50"/>
+<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo.png" width="48" />
 
 <!-- MySQL -->
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
 
 <!-- MongoDB -->
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
 
 <!-- Tableau -->
-<img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" />
 
 </p>
 
