@@ -22,50 +22,63 @@
 
 <p align="left">
 
-<!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
+  <!-- Core ML & AI Tools -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
 
-<!-- TensorFlow -->
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
+  </a>
 
-<!-- Keras -->
-<img src="https://skillicons.dev/icons?i=keras" width="48"/>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
+  </a>
 
-<!-- PyTorch -->
-<img src="https://skillicons.dev/icons?i=pytorch" width="48"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="45" height="45"/>
+  </a>
 
-<!-- Scikit-learn -->
-<img src="https://skillicons.dev/icons?i=scikitlearn" width="48"/>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="45" height="45"/>
+  </a>
 
-<!-- OpenAI (official icon) -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48" />
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="45" height="45"/>
+  </a>
 
-<!-- Pinecone -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" width="48" />
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45" height="45"/>
+  </a>
 
-<!-- AWS -->
-<img src="https://skillicons.dev/icons?i=aws" width="48"/>
+  <!-- Cloud & DevOps -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="45" height="45"/>
+  </a>
 
-<!-- Google Cloud -->
-<img src="https://skillicons.dev/icons?i=gcp" width="48"/>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/>
+  </a>
 
-<!-- Docker -->
-<img src="https://skillicons.dev/icons?i=docker" width="48"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  </a>
 
-<!-- n8n (official PNG) -->
-<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" />
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  </a>
 
-<!-- MLflow -->
-<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo.png" width="48" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
 
-<!-- MySQL -->
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+  <!-- Analytics -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
+  </a>
 
-<!-- MongoDB -->
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-
-<!-- Tableau -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" />
+</p>
 
 </p>
 
