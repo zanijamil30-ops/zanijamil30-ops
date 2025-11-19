@@ -83,14 +83,48 @@
 </p>
 
 </p>
-## 📌 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **End-to-End Housing Price MLOps** | Complete MLOps pipeline with data ingestion, model training, MLflow tracking, CI/CD & deployment | Python, MLflow, Docker, AWS | [Repo](https://github.com/zanijamil30-ops/end-to-end-housing-price-mlops) |
-| **Telecom Churn Prediction** | ML model predicting telecom customer churn using ensemble & stacking methods | Python, Scikit-learn, Pandas | [Repo](https://github.com/zanijamil30-ops/telecom-churn-prediction) |
-| **Book Recommender System** | Collaborative-filtering recommendation engine using user ratings & similarity scores | Python, Pandas, Scikit-learn | [Repo](https://github.com/zanijamil30-ops/Book-Recommender-System) |
-| **Kidney Disease Prediction (CV)** | CNN-based medical image classifier for kidney disease prediction | Python, TensorFlow/Keras, OpenCV | [Repo](https://github.com/zanijamil30-ops/Computer-vision-Kidney-disease-predictor) |
+
+## 📌 **Featured Projects**
+
+<table style="border: 2px solid black; border-collapse: collapse; width: 100%;">
+  <tr style="border: 1px solid black;">
+    <th style="border: 1px solid black; padding: 8px;">Project</th>
+    <th style="border: 1px solid black; padding: 8px;">Description</th>
+    <th style="border: 1px solid black; padding: 8px;">Tech Stack</th>
+    <th style="border: 1px solid black; padding: 8px;">Link</th>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;"><b>End-to-End Housing Price MLOps</b></td>
+    <td style="border: 1px solid black; padding: 8px;">Complete MLOps pipeline with data ingestion, model training, MLflow tracking, CI/CD & deployment</td>
+    <td style="border: 1px solid black; padding: 8px;">Python, MLflow, Docker, AWS</td>
+    <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/zanijamil30-ops/end-to-end-housing-price-mlops">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;"><b>Telecom Churn Prediction</b></td>
+    <td style="border: 1px solid black; padding: 8px;">ML model predicting telecom customer churn using ensemble & stacking methods</td>
+    <td style="border: 1px solid black; padding: 8px;">Python, Scikit-learn, Pandas</td>
+    <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/zanijamil30-ops/telecom-churn-prediction">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;"><b>Book Recommender System</b></td>
+    <td style="border: 1px solid black; padding: 8px;">Collaborative-filtering recommendation engine using user ratings & similarity scores</td>
+    <td style="border: 1px solid black; padding: 8px;">Python, Pandas, Scikit-learn</td>
+    <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/zanijamil30-ops/Book-Recommender-System">Repo</a></td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;"><b>Kidney Disease Prediction (CV)</b></td>
+    <td style="border: 1px solid black; padding: 8px;">CNN-based medical image classifier for kidney disease prediction</td>
+    <td style="border: 1px solid black; padding: 8px;">Python, TensorFlow/Keras, OpenCV</td>
+    <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/zanijamil30-ops/Computer-vision-Kidney-disease-predictor">Repo</a></td>
+  </tr>
+
+</table>
+
 
 ⭐ *“Empowering machines to understand human language — one model at a time.”*  
 
