@@ -4,13 +4,17 @@
 
 ---
 
-### 🧠 About Me  
-- 🔭 Currently working on **LLM-based Retrieval-Augmented Generation (RAG)** pipelines  
-- 🧩 Experienced in **Deep Learning, NLP, and AI-driven Automation**  
-- ✍️ I also write technical & research content on **AI, ML, and Generative Systems**  
-- 🌱 Learning advanced **MLOps**, **Vector Databases**, and **Prompt Engineering**  
-- 📫 Reach me: zanijamil30@gmail.com |
-- [LinkedIn]https://www.linkedin.com/in/zainab-jamil-b73824329/
+## 🧩 About Me
+
+- 🔭 Currently working on **LLM-based Retrieval-Augmented Generation (RAG) pipelines**
+- 🤖 Experienced in **Deep Learning, NLP and AI-driven automation**
+- ⚙️ Learning and building workflow automations using **n8n**
+- ✍️ Freelance **research & technical writer** on ML, AI and Generative Systems
+- 🤝 Interested in **MLOps, vector databases and prompt engineering**
+- 📚 Passionate about **making complex AI concepts easy to understand**
+- 📫 Reach me at: **zanijamil30@gmail.com**
+- 🔗 Connect with me on **[LinkedIn](http://www.linkedin.com/in/zainab-jamil-b73824329)**
+- 🤗 Check out my models on **[Hugging Face](https://huggingface.co/Zainab-Jamil30)**
 
 ---
 
