@@ -77,7 +77,9 @@
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
   </a>
-
+ <a href="https://n8n.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="45" height="45"/>
+  </a>
 </p>
 
 </p>
