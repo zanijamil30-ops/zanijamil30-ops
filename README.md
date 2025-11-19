@@ -39,12 +39,61 @@
 
 #### 🧠 NLP, LLMs & Generative AI  
 <p align="left">
+
+  <!-- OpenAI -->
   <a href="https://openai.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"
+         alt="OpenAI" width="50" height="50"/>
   </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tenlab-io/langchain-logo/main/langchain-logo.png" alt="LangChain" width="45" height="45"/>
+
+  <!-- Transformers -->
+  <a href="https://huggingface.co/docs/transformers/index" target="_blank">
+    <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/img/transformers_logo.png"
+         alt="Transformers" width="50" height="50"/>
   </a>
+
+  <!-- spaCy -->
+  <a href="https://spacy.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/explosion/spacy/master/website/src/images/logo.svg"
+         alt="spaCy" width="50" height="50"/>
+  </a>
+
+  <!-- Sentence Transformers -->
+  <a href="https://www.sbert.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/sentence-transformers-logo.png"
+         alt="Sentence Transformers" width="50" height="50"/>
+  </a>
+
+  <!-- Google Gemini -->
+  <a href="https://ai.google.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/google/gemini-api/main/static/gemini.png"
+         alt="Google Gemini" width="50" height="50"/>
+  </a>
+
+  <!-- Anthropic Claude -->
+  <a href="https://www.anthropic.com/claude" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/114465047?s=200&v=4"
+         alt="Anthropic Claude" width="50" height="50"/>
+  </a>
+
+  <!-- LangSmith -->
+  <a href="https://www.langchain.com/langsmith" target="_blank">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langsmith-docs/main/static/img/logo.png"
+         alt="LangSmith" width="50" height="50"/>
+  </a>
+
+  <!-- LlamaIndex -->
+  <a href="https://www.llamaindex.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/_static/logo.png"
+         alt="LlamaIndex" width="50" height="50"/>
+  </a>
+
+  <!-- Pinecone -->
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/79980707?s=200&v=4"
+         alt="Pinecone" width="50" height="50"/>
+  </a>
+
 </p>
 
 #### ☁️ Cloud, DevOps & MLOps  
