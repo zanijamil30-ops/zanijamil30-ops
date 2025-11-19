@@ -40,58 +40,44 @@
 #### 🧠 NLP, LLMs & Generative AI  
 <p align="left">
 
-  <!-- OpenAI -->
   <a href="https://openai.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/53395357?s=200&v=4"
-         alt="OpenAI" width="48" height="48"/>
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
 
-  <!-- Transformers -->
+  <a href="https://huggingface.co/" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  </a>
+
   <a href="https://huggingface.co/docs/transformers" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/77665327?s=200&v=4"
-         alt="Transformers" width="48" height="48"/>
+    <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white"/>
   </a>
 
-  <!-- spaCy -->
   <a href="https://spacy.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/6939964?s=200&v=4"
-         alt="spaCy" width="48" height="48"/>
+    <img alt="spaCy" src="https://img.shields.io/badge/spaCy-0077C8?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 
-  <!-- Sentence Transformers -->
   <a href="https://www.sbert.net/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/43221810?s=200&v=4"
-         alt="SentenceTransformers" width="48" height="48"/>
+    <img alt="Sentence-Transformers" src="https://img.shields.io/badge/Sentence--Transformers-3B5998?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 
-  <!-- Google Gemini -->
   <a href="https://ai.google.dev/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/92394388?s=200&v=4"
-         alt="Google Gemini" width="48" height="48"/>
+    <img alt="Google AI / Gemini" src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
 
-  <!-- Anthropic Claude -->
   <a href="https://www.anthropic.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/114465047?s=200&v=4"
-         alt="Claude" width="48" height="48"/>
+    <img alt="Anthropic Claude" src="https://img.shields.io/badge/Anthropic-7B61FF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
 
-  <!-- LangSmith -->
   <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"
-         alt="LangSmith" width="48" height="48"/>
+    <img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-00AEEF?style=for-the-badge&logo=langchain&logoColor=white"/>
   </a>
 
-  <!-- LlamaIndex -->
   <a href="https://www.llamaindex.ai/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/135152054?s=200&v=4"
-         alt="LlamaIndex" width="48" height="48"/>
+    <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-2E7D32?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 
-  <!-- Pinecone -->
   <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/79980707?s=200&v=4"
-         alt="Pinecone" width="48" height="48"/>
+    <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-7C4DFF?style=for-the-badge&logo=pinecone&logoColor=white"/>
   </a>
 
 </p>
