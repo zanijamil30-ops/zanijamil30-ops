@@ -54,8 +54,9 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="45" height="45"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45"/></a>
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="60" title="n8n"/>
+
 </p>
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="60" title="n8n"/>
 
 #### 🧮 Databases & Data Engineering  
 <p align="left">
