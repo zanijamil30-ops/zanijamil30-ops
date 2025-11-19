@@ -83,7 +83,14 @@
 </p>
 
 </p>
+## 📌 Featured Projects
 
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **End-to-End Housing Price MLOps** | Complete MLOps pipeline with data ingestion, model training, MLflow tracking, CI/CD & deployment | Python, MLflow, Docker, AWS | [Repo](https://github.com/zanijamil30-ops/end-to-end-housing-price-mlops) |
+| **Telecom Churn Prediction** | ML model predicting telecom customer churn using ensemble & stacking methods | Python, Scikit-learn, Pandas | [Repo](https://github.com/zanijamil30-ops/telecom-churn-prediction) |
+| **Book Recommender System** | Collaborative-filtering recommendation engine using user ratings & similarity scores | Python, Pandas, Scikit-learn | [Repo](https://github.com/zanijamil30-ops/Book-Recommender-System) |
+| **Kidney Disease Prediction (CV)** | CNN-based medical image classifier for kidney disease prediction | Python, TensorFlow/Keras, OpenCV | [Repo](https://github.com/zanijamil30-ops/Computer-vision-Kidney-disease-predictor) |
 
 ⭐ *“Empowering machines to understand human language — one model at a time.”*  
 
