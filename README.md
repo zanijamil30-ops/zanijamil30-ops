@@ -39,36 +39,47 @@
 
 #### 🧠 NLP, LLMs & Generative AI  
 <p align="left">
+
   <a href="https://openai.com/" target="_blank">
-    <img src="./assets/icons/openai.png" alt="OpenAI" width="48" height="48"/>
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
+
   <a href="https://huggingface.co/" target="_blank">
-    <img src="./assets/icons/huggingface.png" alt="Hugging Face" width="48" height="48"/>
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white"/>
   </a>
+
   <a href="https://huggingface.co/docs/transformers" target="_blank">
-    <img src="./assets/icons/transformers.png" alt="Transformers" width="48" height="48"/>
+    <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white"/>
   </a>
+
   <a href="https://spacy.io/" target="_blank">
-    <img src="./assets/icons/spacy.png" alt="spaCy" width="48" height="48"/>
+    <img alt="spaCy" src="https://img.shields.io/badge/spaCy-0077C8?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
+
   <a href="https://www.sbert.net/" target="_blank">
-    <img src="./assets/icons/sentence_transformers.png" alt="Sentence Transformers" width="48" height="48"/>
+    <img alt="Sentence-Transformers" src="https://img.shields.io/badge/Sentence--Transformers-3B5998?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
+
   <a href="https://ai.google.dev/" target="_blank">
-    <img src="./assets/icons/google_gemini.png" alt="Google Gemini" width="48" height="48"/>
+    <img alt="Google AI / Gemini" src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
+
   <a href="https://www.anthropic.com/" target="_blank">
-    <img src="./assets/icons/anthropic.png" alt="Anthropic Claude" width="48" height="48"/>
+    <img alt="Anthropic Claude" src="https://img.shields.io/badge/Anthropic-7B61FF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
+
   <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="./assets/icons/langsmith.png" alt="LangSmith" width="48" height="48"/>
+    <img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-00AEEF?style=for-the-badge&logo=langchain&logoColor=white"/>
   </a>
+
   <a href="https://www.llamaindex.ai/" target="_blank">
-    <img src="./assets/icons/llamaindex.png" alt="LlamaIndex" width="48" height="48"/>
+    <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-2E7D32?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
+
   <a href="https://www.pinecone.io/" target="_blank">
-    <img src="./assets/icons/pinecone.png" alt="Pinecone" width="48" height="48"/>
+    <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-7C4DFF?style=for-the-badge&logo=pinecone&logoColor=white"/>
   </a>
+
 </p>
 
 #### ☁️ Cloud, DevOps & MLOps  
