@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab Jamil</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Freelance Research & Technical Writer</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | MLOps |Freelance Research & Technical Writer</h3>
 <h4 align="center">Specializing in Deep Learning, NLP, LLMs & Generative AI (RAG - Retrieval-Augmented Generation)</h4>
 
 ---
