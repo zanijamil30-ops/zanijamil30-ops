@@ -127,25 +127,31 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=zanijamil30-ops&show_icons=true&theme=github_dark&hide_border=false" 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zanijamil30-ops&show_icons=true&theme=github_dark&hide_border=false"
     alt="GitHub Stats"
     height="160"
   />
-  
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanijamil30-ops&layout=compact&theme=github_dark&hide_border=false"
     alt="Top Languages"
     height="160"
   />
 </p>
 
-<!-- GitHub Streak Stats -->
-<p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=zanijamil30-ops&theme=dark&hide_border=false" 
-    alt="GitHub Streak Stats"
+<!-- Streak: try demolab first, but if that errors, use the herokuapp fallback -->
+<p align="center">
+  <!-- Primary -->
+  <img
+    src="https://streak-stats.demolab.com?user=zanijamil30-ops&theme=dark&hide_border=false"
+    alt="GitHub Streak Stats (demolab)"
+    height="160"
+  />
+  <!-- Fallback (alternate endpoint) -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=zanijamil30-ops&theme=dark&hide_border=false"
+    alt="GitHub Streak Stats (fallback)"
     height="160"
   />
 </p>
