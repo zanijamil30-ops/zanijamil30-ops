@@ -127,30 +127,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=zanijamil30-ops&show_icons=true&theme=dark&hide_border=false" 
-    height="160"
-    alt="GitHub Stats"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanijamil30-ops&layout=compact&theme=dark&hide_border=false" 
-    height="160"
-    alt="Top Languages"
-  />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=zanijamil30-ops&theme=dark&hide_border=false" 
-    height="160"
-    alt="GitHub Streak"
-  />
-</p>
+<p align="left"> <!-- GitHub Stats (Black Theme) --> <img src="https://github-readme-stats.vercel.app/api?username=zanijamil30-ops&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" height="160" /> <!-- Most Used Languages (Black Theme) --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanijamil30-ops&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" height="160" /> </p> <!-- GitHub Streak Stats (Black Theme) --> <p align="left"> <img src="https://streak-stats.demolab.com?user=zanijamil30-ops&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="160" /> </p>
 
 ⭐ *“Empowering machines to understand human language — one model at a time.”*  
 
