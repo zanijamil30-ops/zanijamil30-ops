@@ -128,28 +128,24 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-
-  <!-- GitHub Stats (Black Theme) -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=zanijamil30-ops&show_icons=true&theme=github_dark&hide_border=false" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
     height="160"
   />
-
-  <!-- Most Used Languages (Black Theme) -->
+  
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanijamil30-ops&layout=compact&theme=github_dark&hide_border=false" 
-    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanijamil30-ops&layout=compact&theme=github_dark&hide_border=false"
+    alt="Top Languages"
     height="160"
   />
-
 </p>
 
-<!-- GitHub Streak Stats (Black Theme) -->
+<!-- GitHub Streak Stats -->
 <p align="left">
   <img 
     src="https://streak-stats.demolab.com?user=zanijamil30-ops&theme=dark&hide_border=false" 
-    alt="GitHub Streak Stats" 
+    alt="GitHub Streak Stats"
     height="160"
   />
 </p>
